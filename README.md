@@ -45,6 +45,7 @@
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF1B2D?logo=Laravel&logoColor=white"></a>
+   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-FF1B2D?logo=Tailwind_CSS&logoColor=white"></a>
 </p>
 
 ## Operating Systems
