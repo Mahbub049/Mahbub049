@@ -39,20 +39,23 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-FF1B2D?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-777BB4?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-3776AB?logo=python&logoColor=white"></a>
 </p>
 
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF1B2D?logo=Laravel&logoColor=white"></a>
-   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-FF1B2D?logo=Tailwind_CSS&logoColor=white"></a>
+   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white"></a>
+   <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white"></a>
 </p>
 
 ## Operating Systems
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android%20-%2311AB00.svg?logo=android&logoColor=white"></a>
-	
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
 </p>
 
 ## Browsers
@@ -68,6 +71,7 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-0078d7.svg?logo=MySQL&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"></a>
 </p> 
 
 ## Software and Tools
@@ -77,6 +81,7 @@
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
 	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 </p>
+
 
 ## Connect with Me
 
