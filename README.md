@@ -38,7 +38,7 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-FF1B2D?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23FF1B2D.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-777BB4?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-3776AB?logo=python&logoColor=white"></a>
 </p>
@@ -49,6 +49,8 @@
    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF1B2D?logo=Laravel&logoColor=white"></a>
    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white"></a>
    <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white"></a>
+   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"></a>
+   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
 </p>
 
 ## Operating Systems
@@ -81,6 +83,7 @@
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
 	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 </p>
+
 
 
 ## Connect with Me
