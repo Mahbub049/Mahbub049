@@ -6,7 +6,7 @@
   class WhoAmI:
     user = 'Muhammad Mahbub Sarwar Shafi'
 	current_edu = "Bangladesh University of Professionals"
-    currently_learning = "Backend Development (MERN STACK)"
+    currently_learning = "Frontend Development (MERN STACK)"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -18,7 +18,7 @@
 		return ECB_Dhaka()
 	
 	def Ambitions():
-		BecomeWebEngineer()
+		BecomeFullStackWebDeveloper()
 		FinishMyProjects()
 	
  ```
