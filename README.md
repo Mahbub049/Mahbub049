@@ -26,7 +26,7 @@ const profile = {
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub049&layout=compact&theme=github_dark"/>|
 
-## <p align="center>Programming Languages</p>
+## Programming Languages
 
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -106,4 +106,4 @@ const profile = {
 
 ------
 [Muhammad Mahbub Sarwar Shafi](https://github.com/Mahbub049) <br>
-Last Edited on - 08/11/2022
+Last Edited on - 02/07/2024
