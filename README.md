@@ -14,7 +14,7 @@ const profile = {
     assistantJointSecretary: 'BUPRC',
     gamingHost: 'BUP ITC'
   },
-  challenge: 'I am developing myself to become a world-class level programmer using my creative thinking and problem solving capabilities'
+  challenge: 'Developing myself to become a world-class programmer by creative thinking and problem-solving capabilities'
 };
 	
  ```
