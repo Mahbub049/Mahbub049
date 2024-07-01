@@ -26,7 +26,7 @@ const profile = {
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub049&layout=compact&theme=github_dark"/>|
 
-## Programming Languages
+## <p align="center>Programming Languages</p>
 
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
