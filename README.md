@@ -2,24 +2,20 @@
 
 ## Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'Muhammad Mahbub Sarwar Shafi'
-	current_edu = "Bangladesh University of Professionals"
-    currently_learning = "Frontend Development (MERN STACK)"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return ECB_Dhaka()
-	
-	def Ambitions():
-		BecomeFullStackWebDeveloper()
-		FinishMyProjects()
+ ```javascript
+const profile = {
+  name: 'Muhammad Mahbub Sarwar Shafi',
+  education: 'ICE Graduate from BUP',
+  location: 'Matikata, Dhaka-1206',
+  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Ruby', 'Python', 'Java'],
+  tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
+  involvements: {
+    chairperson: 'IEEE CS BUP SBC',
+    assistantJointSecretary: 'BUPRC',
+    gamingHost: 'BUP ITC'
+  },
+  challenge: 'I am doing the #100DaysOfCode challenge focused on React and TypeScript'
+};
 	
  ```
 
