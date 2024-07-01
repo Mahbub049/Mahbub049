@@ -88,19 +88,6 @@ const profile = {
 	<a href="#">	<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
 
-## Servers
-<p>
-	<a href="#"><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></a>
-</p>
-</p>
-
-## ML/DL
-<p>
-	<a href="#"><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
-	<a href="#"><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
-	<a href="#"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
-</p>
-
 
 
 
@@ -112,11 +99,12 @@ const profile = {
   <a href="https://www.linkedin.com/in/muhammad-mahbub-sarwar-shafi-9808b71a5"><img alt="Linkedin" title="Mahbub Sarwar Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Mahbub049"><img alt="Github" title="Mahbub Sarwar Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://wa.me/01820909803"><img alt="Mahbub Sarwar Whatsapp" title="Mahbub Sarwar Whatsapp" src="https://img.shields.io/badge/Whatsapp-%2311AB00.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:mahbubsarwar5@gmail.com"><img alt="Gmail" title="Mahbub Sarwar Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/mahbub.sarwar46"><img alt="Facebook" title="Mahbub Sarwar FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/mahbub.sarwar"><img alt="Instagram" title="Mahbub Sarwar Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
  </p>
  <p align="center">
-  <a href="mailto:mahbubsarwar5@gmail.com"><img alt="Gmail" title="Mahbub Sarwar Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/mahbub.sarwar"><img alt="Instagram" title="Mahbub Sarwar Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/mahbub049"><img alt="Telegram" title="Mahbub Sarwar Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href="https://twitter.com/MahbubSarwar9"><img alt="Twitter" title="Mahbub Sarwar Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/16e7b98c-c3fc-4c65-8efd-a0e801ddb97b"><img alt="Google Cloud" title="Muhammad Mahbub Sarwar's Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
