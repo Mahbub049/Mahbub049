@@ -7,14 +7,14 @@ const profile = {
   name: 'Muhammad Mahbub Sarwar Shafi',
   education: 'ICE Graduate from BUP',
   location: 'Matikata, Dhaka-1206',
-  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Ruby', 'Python', 'Java'],
-  tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
+  code: ['JavaScript', 'TypeScript', 'HTML', 'TailwindCSS', 'CSS'],
+  tools: ['React', 'Express', 'MongoDB', 'Node'],
   involvements: {
     chairperson: 'IEEE CS BUP SBC',
     assistantJointSecretary: 'BUPRC',
     gamingHost: 'BUP ITC'
   },
-  challenge: 'I am doing the #100DaysOfCode challenge focused on React and TypeScript'
+  challenge: 'I am developing myself to become a world-class level programmer using my creative thinking and problem solving capabilities'
 };
 	
  ```
