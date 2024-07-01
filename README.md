@@ -57,13 +57,6 @@ const profile = {
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
 </p>
 
-## Browsers
-<p>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Firefox-%23430098.svg?logo=Firefox&logoColor=violet"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
-
 ## Databases and Cloud hosting
 
 <p>
