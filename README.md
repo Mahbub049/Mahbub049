@@ -24,7 +24,7 @@ const profile = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mahbub049&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub049&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub049&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub049&layout=compact&theme=github_dark"/>
 
 ## Programming Languages
 
