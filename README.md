@@ -294,7 +294,9 @@ I also work on specialized systems for:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahbub049&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<div align="center">
+
+<img width="49%" src="./profile/stats.svg" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Mahbub049&theme=tokyonight&hide_border=true" />
 
@@ -304,7 +306,9 @@ I also work on specialized systems for:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub049&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="49%" src="./profile/top-langs.svg" />
+
+</div>
 
 </div>
 
@@ -312,7 +316,7 @@ I also work on specialized systems for:
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub049&theme=tokyonight" />
+<!-- <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub049&theme=tokyonight" /> -->
 
 </div>
 
